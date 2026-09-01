@@ -9,5 +9,6 @@ export default defineConfig({
     expect: {
       requireAssertions: true,
     },
+    restoreMocks: true,
   },
 });
